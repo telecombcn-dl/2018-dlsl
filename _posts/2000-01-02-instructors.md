@@ -69,9 +69,9 @@ fa-icon: info
     </a>
 </div>
 <div class="author">
-    <a href="https://www.linkedin.com/in/marta-coll-043b0412b/" target="_blank">
-      <div class="authorphoto"><img src="img/assistants/NoeCasas-160x160.jpg"></div>
-      <div>Noe Casas</div>
+    <a href="https://github.com/noe" target="_blank">
+      <div class="authorphoto"><img src="img/assistants/NoeCasas.jpg"></div>
+      <div>No&eacute; Casas</div>
     </a>
 </div>
 
