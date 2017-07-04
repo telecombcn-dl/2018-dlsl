@@ -1,8 +1,9 @@
 ---
-title: "authors"
-bg: white
-color: black
+title: "Instructors"
+bg: blue
+color: white
 style: center
+fa-icon: info
 ---
 
 ### Instructors 
