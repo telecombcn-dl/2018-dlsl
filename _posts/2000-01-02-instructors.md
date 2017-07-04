@@ -64,13 +64,13 @@ fa-icon: info
 
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/adria-casamitjana" target="_blank">
-      <div class="authorphoto"><img src="img/assistants/AdriaCasamitjana-160x160.jpg"></div>
+      <div class="authorphoto"><img src="img/tas/AdriaCasamitjana-160x160.jpg"></div>
       <div>Adri&agrave; Casamitjana</div>
     </a>
 </div>
 <div class="author">
     <a href="https://github.com/noe" target="_blank">
-      <div class="authorphoto"><img src="img/assistants/NoeCasas.jpg"></div>
+      <div class="authorphoto"><img src="img/tas/NoeCasas.jpg"></div>
       <div>No&eacute; Casas</div>
     </a>
 </div>
