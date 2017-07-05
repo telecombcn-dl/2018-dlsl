@@ -76,3 +76,15 @@ fa-icon: info
 </div>
 
 
+<br>
+
+### Guest Speakers
+
+<div class="author">
+    <a href="https://cristiancanton.github.io/" target="_blank">
+      <div class="authorphoto"><img src="img/guests/CristianCanton-160x160.jpg"></div>
+      <div>Cristian Canton Ferrer (Facebook)</div>
+    </a>
+</div>
+<br>
+
