@@ -1,7 +1,7 @@
 ---
 title: "Organizers"
-bg: #9AD1F5
-color: black
+bg: blue
+color: white
 style: center
 fa-icon: cog
 ---
