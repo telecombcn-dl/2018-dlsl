@@ -89,7 +89,7 @@ fa-icon: info
 <div class="author">
     <a href="http://josemalvarez.net/" target="_blank">
       <div class="authorphoto"><img src="img/guests/JoseMAlvarez-160x160.jpg"></div>
-      <div>Jose M. &Agrave;lvarez (Data 61)</div>
+      <div>Jose M. &Agrave;lvarez <br>(Data 61)</div>
     </a>
 </div>
 <br>
