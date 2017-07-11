@@ -2,7 +2,7 @@
 title: "Registration"
 bg: blue
 color: white
-fa-icon: check
+fa-icon: user-plus
 ---
 
 
