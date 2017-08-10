@@ -69,7 +69,7 @@ fa-icon: info
     </a>
 </div>
 <div class="author">
-    <a href="https://github.com/noe" target="_blank">
+    <a href="http://noecasas.com/" target="_blank">
       <div class="authorphoto"><img src="img/tas/NoeCasas.jpg"></div>
       <div>No&eacute; Casas</div>
     </a>
