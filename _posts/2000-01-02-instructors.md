@@ -81,15 +81,17 @@ fa-icon: info
 ### Guest Speakers
 
 <div class="author">
-    <a href="https://cristiancanton.github.io/" target="_blank">
       <div class="authorphoto"><img src="img/guests/CristianCanton-160x160.jpg"></div>
-      <div>Cristian Canton Ferrer<br><a href="https://research.fb.com/category/applied-machine-learning/">Facebook AML</a><br>Seattle, WA, USA)</div>
+      <div><a href="https://cristiancanton.github.io/" target="_blank">Cristian Canton Ferrer</a><br>
+          <a href="https://research.fb.com/category/applied-machine-learning/">Facebook AML</a><br>
+          (Seattle, WA, USA)</div>
     </a>
 </div>
-<div class="author">
-    <a href="http://josemalvarez.net/" target="_blank">
+<div class="author">    
       <div class="authorphoto"><img src="img/guests/JoseMAlvarez-160x160.jpg"></div>
-        <div>Jose M. &Agrave;lvarez <br><a href="http://www.tri.global/">Toyota Research Institute</a><br> Mountain View, CA, USA)</div>
+        <div><a href="http://josemalvarez.net/" target="_blank">Jose M. &Agrave;lvarez <br>
+        <a href="http://www.tri.global/">Toyota Research Institute</a><br>
+        (Mountain View, CA, USA)</div>
     </a>
 </div>
 <br>
