@@ -83,13 +83,13 @@ fa-icon: info
 <div class="author">
     <a href="https://cristiancanton.github.io/" target="_blank">
       <div class="authorphoto"><img src="img/guests/CristianCanton-160x160.jpg"></div>
-      <div>Cristian Canton Ferrer (Facebook)</div>
+      <div>Cristian Canton Ferrer ([Facebook AML](https://research.fb.com/category/applied-machine-learning/), Seattke, WA, USA)</div>
     </a>
 </div>
 <div class="author">
     <a href="http://josemalvarez.net/" target="_blank">
       <div class="authorphoto"><img src="img/guests/JoseMAlvarez-160x160.jpg"></div>
-      <div>Jose M. &Agrave;lvarez <br>(Data 61)</div>
+      <div>Jose M. &Agrave;lvarez <br>([Toyota Research Institute](http://www.tri.global/), Mountain View, CA, USA)</div>
     </a>
 </div>
 <br>
