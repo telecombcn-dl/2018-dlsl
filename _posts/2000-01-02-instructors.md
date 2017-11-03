@@ -90,19 +90,19 @@ fa-icon: info
       <div class="authorphoto"><img src="img/guests/YannisKalantidis-160x160.jpg"></div>
       <div><a href="http://www.skamalas.com/" target="_blank">Yannis Kalantidis</a></div>
       <div><a href="https://research.fb.com/category/applied-machine-learning/">Facebook AML</a></div>
-      <div>(Menlo Park, CA, USA)</div>
+      <div>(Menlo Park, USA)</div>
 </div>
 <div class="author">
       <div class="authorphoto"><img src="img/guests/CristianCanton-160x160.jpg"></div>
       <div><a href="https://cristiancanton.github.io/" target="_blank">Cristian Canton</a></div>
       <div><a href="https://research.fb.com/category/applied-machine-learning/">Facebook AML</a></div>
-      <div>(Seattle, WA, USA)</div>
+      <div>(Seattle, USA)</div>
 </div>
 <div class="author">    
       <div class="authorphoto"><img src="img/guests/JoseMAlvarez-160x160.jpg"></div>
         <div><a href="http://josemalvarez.net/" target="_blank">Jose M. &Agrave;lvarez</div>
         <div><a href="http://www.tri.global/">Toyota</a></div>
-        <div>(Mountain View, CA, USA)</div>
+        <div>(Mountain View, USA)</div>
 </div>
 <br>
 
