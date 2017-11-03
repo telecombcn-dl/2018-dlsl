@@ -82,24 +82,27 @@ fa-icon: info
 
 <div class="author">
       <div class="authorphoto"><img src="img/guests/OriolVinyals-160x160.jpg"></div>
-      <div><a href="https://research.google.com/pubs/OriolVinyals.html" target="_blank">Oriol Vinyals</a><br>
-          <a href="https://deepmind.com/">Google Deepmind</a><br>
-          (London, UK)
-    </a>
+      <div><a href="https://research.google.com/pubs/OriolVinyals.html" target="_blank">Oriol Vinyals</a></div>
+      <div><a href="https://deepmind.com/">Google Deepmind</a><br></div>
+    <div>(London, UK)</div>
+</div>
+<div class="author">
+      <div class="authorphoto"><img src="img/guests/YannisKalantidis-160x160.jpg"></div>
+      <div><a href="http://www.skamalas.com/" target="_blank">Yannis Kalantidis</a></div>
+      <div><a href="https://research.fb.com/category/applied-machine-learning/">Facebook AML</a></div>
+          <div>(Menlo Park, CA, USA)</div>
 </div>
 <div class="author">
       <div class="authorphoto"><img src="img/guests/CristianCanton-160x160.jpg"></div>
-      <div><a href="https://cristiancanton.github.io/" target="_blank">Cristian Canton Ferrer</a><br>
-          <a href="https://research.fb.com/category/applied-machine-learning/">Facebook AML</a><br>
-          (Seattle, WA, USA)
-    </a>
+      <div><a href="https://cristiancanton.github.io/" target="_blank">Cristian Canton Ferrer</a></div>
+      <div><a href="https://research.fb.com/category/applied-machine-learning/">Facebook AML</a></div>
+          <div>(Seattle, WA, USA)</div>
 </div>
 <div class="author">    
       <div class="authorphoto"><img src="img/guests/JoseMAlvarez-160x160.jpg"></div>
-        <div><a href="http://josemalvarez.net/" target="_blank">Jose M. &Agrave;lvarez <br>
-        <a href="http://www.tri.global/">Toyota Research Institute</a><br>
-        (Mountain View, CA, USA)
-    </a>
+        <div><a href="http://josemalvarez.net/" target="_blank">Jose M. &Agrave;lvarez</div>
+        <div><a href="http://www.tri.global/">Toyota Research Institute</a></div>
+        <div>(Mountain View, CA, USA)</div>
 </div>
 <br>
 
