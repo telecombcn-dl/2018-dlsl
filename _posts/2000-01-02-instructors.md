@@ -99,8 +99,8 @@ fa-icon: info
       <div>(Seattle, USA)</div>
 </div>
 <div class="author">    
-      <div class="authorphoto"><img src="img/guests/JoseMAlvarez-160x160.jpg"></div>
-        <div><a href="http://josemalvarez.net/" target="_blank">Jose M. &Agrave;lvarez</div>
+        <div class="authorphoto"><img src="img/guests/JoseMAlvarez-160x160.jpg"></div>
+        <div><a href="http://josemalvarez.net/" target="_blank">Jose M. &Agrave;lvarez</a></div>
         <div><a href="http://www.tri.global/">Toyota</a></div>
         <div>(Mountain View, USA)</div>
 </div>
