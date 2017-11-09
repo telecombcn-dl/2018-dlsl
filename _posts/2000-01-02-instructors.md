@@ -74,6 +74,12 @@ fa-icon: info
       <div>No&eacute; Casas</div>
     </a>
 </div>
+<div class="author">
+    <a href="https://imatge.upc.edu/web/people/amanda-duarte" target="_blank">
+      <div class="authorphoto"><img src="img/tas/AmandaDuarte.jpg"></div>
+      <div>Amanda Duarte</div>
+    </a>
+</div>
 
 
 <br>
