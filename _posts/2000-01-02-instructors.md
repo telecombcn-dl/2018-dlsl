@@ -104,11 +104,5 @@ fa-icon: info
       <div><a href="https://research.fb.com/category/applied-machine-learning/">Facebook AML</a></div>
       <div>(Seattle, USA)</div>
 </div>
-<div class="author">    
-        <div class="authorphoto"><img src="img/guests/JoseMAlvarez-160x160.jpg"></div>
-        <div><a href="http://josemalvarez.net/" target="_blank">Jose M. &Agrave;lvarez</a></div>
-        <div><a href="http://www.tri.global/">Toyota</a></div>
-        <div>(Mountain View, USA)</div>
-</div>
 <br>
 
