@@ -99,6 +99,12 @@ fa-icon: info
       <div>(Menlo Park, USA)</div>
 </div>
 <div class="author">
+      <div class="authorphoto"><img src="img/guests/AmaiaSalvador-160x160.jpg"></div>
+      <div><a href="https://imatge.upc.edu/web/people/amaia-salvador" target="_blank">Amaia Salvador</a></div>
+      <div><a href="https://imatge.upc.edu/web/">GPI UPC</a></div>
+      <div>(Barcelona, Catalonia)</div>
+</div>
+<div class="author">
       <div class="authorphoto"><img src="img/guests/CristianCanton-160x160.jpg"></div>
       <div><a href="https://cristiancanton.github.io/" target="_blank">Cristian Canton</a></div>
       <div><a href="https://research.fb.com/category/applied-machine-learning/">Facebook AML</a></div>
