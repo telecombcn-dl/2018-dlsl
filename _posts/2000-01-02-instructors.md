@@ -102,7 +102,7 @@ fa-icon: info
       <div class="authorphoto"><img src="img/guests/AmaiaSalvador-160x160.jpg"></div>
       <div><a href="https://imatge.upc.edu/web/people/amaia-salvador" target="_blank">Amaia Salvador</a></div>
       <div><a href="https://imatge.upc.edu/web/">UPC Barcelona</a></div>
-      <div>(Barcelona, Catalonia)</div>
+      <div>(Catalonia / Spain)</div>
 </div>
 <div class="author">
       <div class="authorphoto"><img src="img/guests/CristianCanton-160x160.jpg"></div>
