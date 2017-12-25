@@ -11,7 +11,7 @@ fa-icon: check
 * Course code and official guide: [230235 - IDL](http://infoteleco.upc.edu/documents/guia_docent/assignatures/SisAud/230325.pdf)
 * ECTS credits: 2 ECTS
 * Teaching language: English
-* Semester: Fall 2017
+* Semester: Autumn 2017
 * Class Schedule: 22, 23, 24, 25 & 30 January 2018 (10am-12pm Lectures, 12pm-2pm Lab)
 * Capacity: 20 BSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
