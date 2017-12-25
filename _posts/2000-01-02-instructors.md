@@ -62,13 +62,13 @@ fa-icon: info
 
 <div class="author">
     <a href="https://www.linkedin.com/in/marta-coll-043b0412b/" target="_blank">
-      <div class="authorphoto"><img src="img/assistants/MartaColl-160x160.jpg"></div>
+      <div class="authorphoto"><img src="img/tas/MartaColl-160x160.jpg"></div>
       <div>Marta Coll</div>
     </a>
 </div>
 <div class="author">
     <a href="https://www.linkedin.com/in/francisco-rold%C3%A1n-s%C3%A1nchez-870438113/" target="_blank">
-      <div class="authorphoto"><img src="img/assistants/FranRoldan-160x160.jpg"></div>
+      <div class="authorphoto"><img src="img/tas/FranRoldan-160x160.jpg"></div>
       <div>Fran Roldán</div>
     </a>
 </div>
