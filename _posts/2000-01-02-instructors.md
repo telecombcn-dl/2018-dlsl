@@ -50,7 +50,6 @@ fa-icon: info
     </a>
 </div>
 <div class="author">
-<div class="author">
     <a href="https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en" target="_blank">
       <div class="authorphoto"><img src="img/instructors/ToniBonafonte-160x160.jpg"></div>
       <div>Antonio Bonafonte</div>
