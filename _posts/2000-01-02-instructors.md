@@ -21,7 +21,7 @@ fa-icon: info
 </div>
 <div class="author">
     <a href="http://noecasas.com/" target="_blank">
-      <div class="authorphoto"><img src="img/tas/NoeCasas.jpg"></div>
+      <div class="authorphoto"><img src="img/instructors/NoeCasas.jpg"></div>
       <div>No&eacute; Casas</div>
     </a>
 </div>
@@ -52,7 +52,7 @@ fa-icon: info
 <div class="author">
 <div class="author">
     <a href="https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/AntonioBonafonte.jpg"></div>
+      <div class="authorphoto"><img src="img/instructors/ToniBonafonte-160x160.jpg"></div>
       <div>Antonio Bonafonte</div>
     </a>
 </div>
