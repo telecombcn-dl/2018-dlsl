@@ -7,11 +7,11 @@ fa-icon: check
 
 ## Practical details
 
-* Study Programs: [Master MET](https://etsetb.upc.edu/ca/estudis/masters/master-en-enginyeria-de-telecomunicacio-met) at ETSETB TelecomBCN and [Masters FIB](https://www.fib.upc.edu/en/studies/masters),  from the [Universitat Politecnica de Catalunya](http://www.upc.edu/?set_language=en).
-* Course code and official guide: [230706 - DLAI](http://www.etsetb.upc.edu/documents/guia_docent/assignatures/all/ang/230706.pdf)
-* ECTS credits: 5 ECTS
+* Study Programs: Bachelor degrees at at [ETSETB TelecomBCN](http://etsetb.upc.edu/ca),  from the [Universitat Politecnica de Catalunya](http://www.upc.edu/?set_language=en).
+* Course code and official guide: [230235 - IDL](http://infoteleco.upc.edu/documents/guia_docent/assignatures/SisAud/230325.pdf)
+* ECTS credits: 2 ECTS
 * Teaching language: English
 * Semester: Fall 2017
-* Class Schedule: Tuesdays 3-6pm (3-5pm Lectures, 5-6pm Lab)
-* Capacity: 40 MSc students
+* Class Schedule: 22, 23, 24, 25 & 30 January 2018 (10am-12pm Lectures, 12pm-2pm Lab)
+* Capacity: 20 BSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
