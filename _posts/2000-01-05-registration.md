@@ -20,8 +20,8 @@ Sign up for the BSc Winter School on [Introduction to Deep Learning](https://tel
 
 * __Master students at FIB__: Contact the FIB academic office before 14 January 2018. They will collect all applications and submit them to ETSTEB for approval. 
 
-* __Students at GPI or TALP UPC with all ECTS completed__: If you are developing your Phd/MSc/BSc theses with any professor at the Image Processing Group (GPI) or Center for Language and Speech Technologies and Applications (TALP), contact your advisor and ask him/her to ask for a seat for you in the course. 
-
 * __Bachelor students at ETSETB or FIB__: You might have a seat available, but no official certification. If interested, fill in this form before 14 January 2018. 
 
-* __Industry members and any other student profile__: You must apply for being accepted in the course and cover the 100% cost of the ECTS credits, without the support of the public funds. This corresponds to 143,08 € per ECTS credit (Summer 2016). If you are interested in this option, please contact the [ETSETB Telecom BCN academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta).
+* __Students at GPI or TALP UPC with all ECTS completed__: If you are developing your Phd/MSc/BSc theses with any professor at the Image Processing Group (GPI) or Center for Language and Speech Technologies and Applications (TALP), contact your advisor and ask him/her to ask for a seat for you in the course. 
+
+* __Industry members and any other profile__: You must apply for being accepted in the course and cover the 100% cost of the ECTS credits, without the support of the public funds. This corresponds to 143,08 € per ECTS credit (Summer 2016). If you are interested in this option, please contact the [ETSETB Telecom BCN academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta).
