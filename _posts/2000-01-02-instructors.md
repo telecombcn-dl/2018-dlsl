@@ -45,6 +45,9 @@ fa-icon: info
     </a>
 </div>
 
+<br>
+<br>
+
 ### Guest Speakers
 <div class="author">
     <a href="http://gboleda.utcompling.com/" target="_blank">
