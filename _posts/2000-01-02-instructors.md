@@ -48,11 +48,10 @@ fa-icon: info
 ### Guest Speakers
 <div class="author">
     <a href="http://gboleda.utcompling.com/" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/GemmaBoleda-160x160.gif"></div>
+      <div class="authorphoto"><img src="img/instructors/GemmaBoleda-160x160.jpg"></div>
       <div>Gemma Boleda (UPF)</div>
     </a>
 </div>
-<br>
 <div class="author">
     <a href="http://www.jordipons.me/" target="_blank">
       <div class="authorphoto"><img src="img/instructors/JordiPons-160x160.gif"></div>
