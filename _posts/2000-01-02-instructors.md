@@ -14,9 +14,9 @@ fa-icon: info
 </a>
 </div>
 <div class="author">
-    <a href="https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/ToniBonafonte-160x160.jpg"></div>
-      <div>Antonio Bonafonte</div>
+    <a href="https://github.com/santi-pdp" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/SantiPascual.jpg"></div>
+      <div>Santiago Pascual</div>
     </a>
 </div>
 <div class="author">
@@ -25,20 +25,38 @@ fa-icon: info
       <div>Xavier Giró</div>
     </a>
 </div>
+<br>
 <div class="author">
-    <a href="http://noecasas.com/" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/NoeCasas.jpg"></div>
-      <div>No&eacute; Casas</div>
+    <a href="https://scholar.google.com/citations?user=nL-pZh8AAAAJ" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/JoseAdrian-160x160.jpg"></div>
+      <div>Jos&eacute; A. R. Fonollosa</div>
+    </a>
+</div>
+<div class="author">
+    <a href="https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/ToniBonafonte-160x160.jpg"></div>
+      <div>Antonio Bonafonte</div>
+    </a>
+</div>
+<div class="author">
+    <a href="https://scholar.google.es/citations?user=dTPbsfMAAAAJ&hl=en" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/JavierHernando-160x160.jpg"></div>
+      <div>Javier Hernando</div>
     </a>
 </div>
 
 ### Guest Speakers
-
 <div class="author">
-    <a href="http://www.jordipons.me/" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/JordiPons.jpg"></div>
-      <div>Jordi Pons (UPF)</div>
+    <a href="http://gboleda.utcompling.com/" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/GemmaBoleda-160x160.gif"></div>
+      <div>Gemma Boleda (UPF)</div>
     </a>
 </div>
 <br>
+<div class="author">
+    <a href="http://www.jordipons.me/" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/JordiPons-160x160.gif"></div>
+      <div>Jordi Pons (UPF)</div>
+    </a>
+</div>
 
