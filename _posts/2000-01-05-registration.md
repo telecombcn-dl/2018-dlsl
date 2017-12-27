@@ -8,10 +8,20 @@ fa-icon: user
 
 ## Registration
 
-Registration procedure depends on the student profile:
+This Winter School requires a previous knowledge on basic deep learning techniques, which will not be covered. Please follow these indications depending on your profile:
 
-* **Bachelor students at ETSETB:** Follow the regular schedule from your academic office. There is an extraordinary registration period between 11 and 14 January 2018. 
-* **Students at UPC but not in ETSETB:** Contact the your academic office and request being allowed to take this course. If accepted, contact [ETSETB academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta) and request more details.
-* **Master students at ETSETB:** We strongly encourage that you sign up to the full MSc course of [Deep learning for Artificial Intelligence](https://telecombcn-dl.github.io/2017-dlai/), taught during the Autumn semester. This current course is a simplified version of the full master course.
-* **Mobility students:** If your host institution has signed an agreement with UPC ETSETB Telecom BCN school, you can request a mobility from your host institution and sign up for the course under the same conditions as ETSETB students.
-* **Non UPC nor mobility students:** You must apply for being accepted in the course and cover the 100% cost of the ECTS credits, without the support of the public funds. This corresponds to 143,08 € per ECTS credit (Summer 2016). If you are interested in this option, please contact the [ETSETB Telecom BCN academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta), with an e-mail to secretaria@etsetb.upc.edu or calling at 93 405 4174 / 93 401 6772 / 93 401 5966 or 93 401 6750 in the morning (Monday to Thursday from 11 to 14 and Fridays from 11 to 13) or noons (Wednesdays and Thursdays from 16 to 17h).
+**If you have no previous experience on deep learning:**
+
+Sign up for the BSc Winter School on [Introduction to Deep Learning](https://telecombcn-dl.github.io/2018-idl/), which is taught almost simultaneously in a morning schedule. Once you have signed up for it, you can follow the instructions below that apply to your profile.
+
+**If you have taken a previous edition of DLAI, DLCV, DLSL or have previous experience on deep learning:**
+
+* __Master students at ETSETB__: Registration is available from the [ETSETB academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta). There is an extraordinary registration period between 11 and 14 January 2018.
+
+* __Master students at FIB__: Contact the FIB academic office before 14 January 2018. They will collect all applications and submit them to ETSTEB for approval. 
+
+* __Students at GPI or TALP UPC with all ECTS completed__: If you are developing your Phd/MSc/BSc theses with any professor at the Image Processing Group (GPI) or Center for Language and Speech Technologies and Applications (TALP), contact your advisor and ask him/her to ask for a seat for you in the course. 
+
+* __Bachelor students at ETSETB or FIB__: You might have a seat available, but no official certification. If interested, fill in this form before 14 January 2018. 
+
+* __Industry members and any other student profile__: You must apply for being accepted in the course and cover the 100% cost of the ECTS credits, without the support of the public funds. This corresponds to 143,08 € per ECTS credit (Summer 2016). If you are interested in this option, please contact the [ETSETB Telecom BCN academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta).
