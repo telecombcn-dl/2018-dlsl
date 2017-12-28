@@ -48,6 +48,17 @@ fa-icon: info
 <br>
 <br>
 
+### Teaching Assistants
+<div class="author">
+    <a href="http://futur.upc.edu/CarlosEscolanoPeinado" target="_blank">
+      <div class="authorphoto"><img src="img/tas/CarlosEscolano-160x160.jpg"></div>
+      <div>Carlos Escolano</div>
+    </a>
+</div>
+
+<br>
+<br>
+
 ### Guest Speakers
 <div class="author">
     <a href="https://scholar.google.es/citations?user=Nypb-IYAAAAJ&hl=en" target="_blank">
