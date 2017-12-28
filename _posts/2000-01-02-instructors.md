@@ -51,7 +51,7 @@ fa-icon: info
 ### Guest Speakers
 <div class="author">
     <a href="https://scholar.google.es/citations?user=Nypb-IYAAAAJ&hl=en" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/CarlosSegura-160x160.jpg"></div>
+      <div class="authorphoto"><img src="img/guests/CarlosSegura-160x160.jpg"></div>
       <div>Carlos Segura (Telefónica)</div>
     </a>
 </div>
