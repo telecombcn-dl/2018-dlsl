@@ -50,9 +50,9 @@ fa-icon: info
 
 ### Guest Speakers
 <div class="author">
-    <a href="http://gboleda.utcompling.com/" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/GemmaBoleda-160x160.jpg"></div>
-      <div>Gemma Boleda (UPF)</div>
+    <a href="https://scholar.google.es/citations?user=Nypb-IYAAAAJ&hl=en" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/CarlosSegura-160x160.jpg"></div>
+      <div>Carlos Segura (Telefónica)</div>
     </a>
 </div>
 <div class="author">
