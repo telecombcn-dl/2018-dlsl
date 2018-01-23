@@ -51,7 +51,7 @@ fa-icon: info
 ### Teaching Assistants
 <div class="author">
     <a href="http://futur.upc.edu/CarlosEscolanoPeinado" target="_blank">
-      <div class="authorphoto"><img src="img/tas/CarlosEscolano-160x160.jpg"></div>
+      <div class="authorphoto"><img src="img/tas/CarlosEscolano160x160.jpg"></div>
       <div>Carlos Escolano</div>
     </a>
 </div>
