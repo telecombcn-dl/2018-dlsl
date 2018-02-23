@@ -20,6 +20,6 @@ Sign up for the BSc Winter School on [Introduction to Deep Learning](https://tel
 
 * __Master students at FIB__: Contact the FIB academic office before 14 January 2018. They will collect all applications and submit them to ETSTEB for approval. 
 
-* __Bachelor students at ETSETB or FIB__: You might audit the course, with no official certification. If interested, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeUK0gyuwXWxfGw5-WPh7tHQ8jOGuZhwWqWDu4S-aTZmvWSZA/viewform?usp=sf_link) before 14 January 2018. 
+* __Bachelor students at ETSETB or FIB__: You might audit the course, with no official certification. If interested, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfnlQgg9ZHfDODwikN-4TEfbFrTbAEHCRquGnosFT25qTNpWQ/viewform?usp=sf_link) before 14 June 2018. 
 
 * __Industry members and any other profile__: You must apply for being accepted in the course and cover the 100% cost of the ECTS credits, without the support of the public funds. This corresponds to 143,08 € per ECTS credit (Summer 2016). If you are interested in this option, please contact the [ETSETB Telecom BCN academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta).
